@@ -1,0 +1,7 @@
+.*
+!.gitignore
+
+30min/*
+3day/*
+errors.log
+
