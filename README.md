@@ -1,6 +1,8 @@
 # aurora
 :stars: Visualizations for NOAA's Space Weather forecast of auroras.
 
+![STK Aurora Overlay](notebooks/stk_overlay.png)
+
 ## Rationale
 From Atlantic article What Happens When GPS Fails, June 13<sup>th</sup> 2016:
 >On July 23, 2012, a billion-ton cloud of electrified gases blasted off the far side of the sun at over six million miles per hour. According to professor Daniel Baker at University of Colorado, this coronal mass ejection (CME) "was in all respects at least as strong as the 1859 Carrington Event," referring to the strongest solar storm ever recorded, which set fire to telegraph stations and caused auroras down to Cuba. As was widely reported two years ago, if the 2012 CME had occurred one week later, it would have hit Earth.
